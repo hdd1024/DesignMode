@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7ecc067-a7a3-49b8-8d08-ebd66d828103" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiAirConditioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiRefrigerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiWashingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JavaScript-modules-diagram/E:/MyIDEAProgect/DesignMode/src/Java/com/han/designmode/structure/abstractfactory/electronic">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JavaScript-modules-diagram</ID>
+              <OriginalElement>$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>All</Category>
+              </Categories>
+              <VISIBILITY>Details</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/Java.com.han.designmode.structure.abstractfactory.electronic">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Java.com.han.designmode.structure.abstractfactory.electronic</OriginalElement>
+              <nodes>
+                <node x="0.0" y="490.0">Java.com.han.designmode.structure.abstractfactory.electronic.iproduct</node>
+                <node x="261.75" y="382.0">Java.com.han.designmode.structure.abstractfactory.electronic.Test</node>
+                <node x="61.333333333333314" y="52.0">Java.com.han.designmode.structure.abstractfactory.electronic.product</node>
+                <node x="308.0" y="191.0">Java.com.han.designmode.structure.abstractfactory.electronic.ChinaElectronicFactory</node>
+                <node x="0.0" y="191.0">Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory</node>
+                <node x="380.0" y="0.0">Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.product">
+                  <point x="-72.0" y="-70.5" />
+                  <point x="72.0" y="171.0" />
+                  <point x="101.08333333333331" y="171.0" />
+                  <point x="-39.75" y="18.5" />
+                </edge>
+                <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.ChinaElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.product">
+                  <point x="-72.0" y="-70.5" />
+                  <point x="380.0" y="161.0" />
+                  <point x="180.58333333333331" y="161.0" />
+                  <point x="39.75" y="18.5" />
+                </edge>
+                <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.Test" target="Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory">
+                  <point x="-56.75" y="-31.5" />
+                  <point x="318.5" y="357.0" />
+                  <point x="144.0" y="357.0" />
+                  <point x="0.0" y="70.5" />
+                </edge>
+                <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.ChinaElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory">
+                  <point x="72.0" y="-70.5" />
+                  <point x="0.0" y="70.5" />
+                </edge>
+                <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory">
+                  <point x="72.0" y="-70.5" />
+                  <point x="216.0" y="171.0" />
+                  <point x="428.0" y="171.0" />
+                  <point x="-96.0" y="70.5" />
+                </edge>
+                <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.Test" target="Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory">
+                  <point x="56.75" y="-31.5" />
+                  <point x="432.0" y="357.0" />
+                  <point x="606.8958333333334" y="357.0" />
+                  <point x="606.8958333333334" y="171.0" />
+                  <point x="620.0" y="171.0" />
+                  <point x="96.0" y="70.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-181.5" y="226.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/IElectronicFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/ifactory/IGeLiFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/HaierFactoryImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="23" selection-start-line="22" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/ChinaElectronicFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/APancake.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/Pancake.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/APancakeStructure.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/Test.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/PancakeSausage.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/PancakeEgg.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/PointsGift.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/QualifyService.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/PointPaymentService.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/ShippingServie.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/GiftExchangeService.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/Test.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/IElectronicFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/MeiDiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/GeLiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/GuoMeiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/HaiErFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/HaiErFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/GeLiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IGeLiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/MeiDiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IMeiDiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/GuoMeiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IGuoMeiFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/HaierFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/GeLiFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/MeiDiFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/USElectronicFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/ChinaElectronicFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/USElectronicFactory.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/HaierFactoryImp.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/GuoMeiFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/GeLiFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/MeiDiFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IRefrigerator.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IWashingMachine.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/geli/GeLiAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/geli/GeLiRefrigerator.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/geli/GeLiWashingMachine.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/guomei/GuoMeiAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/haier/HaiErAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/haier/HaiErRefrigerator.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/haier/HaiErWashingMachine.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/guomei/GuoMeiRefrigerator.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/guomei/GuoMeiWashingMachine.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiRefrigerator.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiWashingMachine.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="electronic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="electronic" type="462c0819:PsiDirectoryNode" />
+              <item name="iproduct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="electronic" type="462c0819:PsiDirectoryNode" />
+              <item name="iproduct" type="462c0819:PsiDirectoryNode" />
+              <item name="ifactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="han" type="462c0819:PsiDirectoryNode" />
+              <item name="designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="electronic" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyIDEAProgect\DesignMode\src\Java\com\han\designmode\structure\abstractfactory\electronic\product" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java.com.han.designmode.structure.abstractfactory.electronic.iproduct" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Java.com.han.designmode.structure.abstractfactory.electronic.iproduct" />
+      <recent name="Java.com.han.designmode.structure.abstractfactory.electronic.product" />
+      <recent name="Java.com.han.designmode.structure.abstractfactory.electronic.product.meidi" />
+      <recent name="Java.com.han.designmode.structure.abstractfactory.electronic.product.haier" />
+      <recent name="Java.com.han.designmode.structure.abstractfactory.electronic.product.guomei" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.com.han.designmode.structure.facade.Test" />
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.com.han.designmode.structure.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.com.han.designmode.structure.abstractfactory.electronic.Test" />
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.com.han.designmode.structure.abstractfactory.electronic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.com.han.designmode.structure.decorate.Test" />
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.com.han.designmode.structure.decorate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ecc067-a7a3-49b8-8d08-ebd66d828103" name="Default Changelist" comment="" />
+      <created>1557824130630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557824130630</updated>
+      <workItem from="1557824137165" duration="12340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12340000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30939227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/PancakeSausage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/PancakeEgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Java.com.han.designmode.structure.decorate">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java.com.han.designmode.structure.decorate</OriginalElement>
+          <nodes>
+            <node x="0.0" y="149.5">Java.com.han.designmode.structure.decorate.Pancake</node>
+            <node x="444.83333333333337" y="342.0">Java.com.han.designmode.structure.decorate.PancakeEgg</node>
+            <node x="263.51515151515156" y="149.0">Java.com.han.designmode.structure.decorate.APancakeStructure</node>
+            <node x="143.83333333333337" y="342.0">Java.com.han.designmode.structure.decorate.PancakeSausage</node>
+            <node x="327.3333333333333" y="0.0">Java.com.han.designmode.structure.decorate.APancake</node>
+            <node x="304.01515151515156" y="508.0">Java.com.han.designmode.structure.decorate.Test</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Java.com.han.designmode.structure.decorate.APancakeStructure" target="Java.com.han.designmode.structure.decorate.APancake">
+              <point x="102.66666666666663" y="-71.5" />
+              <point x="520.1818181818182" y="129.0" />
+              <point x="461.69047619047615" y="129.0" />
+              <point x="29.857142857142833" y="44.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.Test" target="Java.com.han.designmode.structure.decorate.APancake">
+              <point x="85.125" y="-31.5" />
+              <point x="502.64015151515156" y="488.0" />
+              <point x="700.3333333333334" y="488.0" />
+              <point x="700.3333333333334" y="109.0" />
+              <point x="521.4047619047619" y="109.0" />
+              <point x="89.57142857142856" y="44.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.PancakeEgg" target="Java.com.han.designmode.structure.decorate.APancake">
+              <point x="81.66666666666669" y="-58.0" />
+              <point x="649.0" y="317.0" />
+              <point x="630.3333333333334" y="317.0" />
+              <point x="630.3333333333334" y="119.0" />
+              <point x="491.547619047619" y="119.0" />
+              <point x="59.714285714285666" y="44.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.Test" target="Java.com.han.designmode.structure.decorate.PancakeEgg">
+              <point x="28.375" y="-31.5" />
+              <point x="445.89015151515156" y="478.0" />
+              <point x="567.3333333333334" y="478.0" />
+              <point x="0.0" y="58.0" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.Test" target="Java.com.han.designmode.structure.decorate.PancakeSausage">
+              <point x="-28.375" y="-31.5" />
+              <point x="389.14015151515156" y="478.0" />
+              <point x="284.33333333333337" y="478.0" />
+              <point x="0.0" y="58.0" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.Test" target="Java.com.han.designmode.structure.decorate.Pancake">
+              <point x="-85.125" y="-31.5" />
+              <point x="332.39015151515156" y="488.0" />
+              <point x="104.5" y="488.0" />
+              <point x="0.0" y="71.0" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.PancakeEgg" target="Java.com.han.designmode.structure.decorate.APancakeStructure">
+              <point x="0.0" y="-58.0" />
+              <point x="567.3333333333334" y="317.0" />
+              <point x="533.0151515151515" y="317.0" />
+              <point x="115.5" y="71.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.PancakeSausage" target="Java.com.han.designmode.structure.decorate.APancakeStructure">
+              <point x="0.0" y="-58.0" />
+              <point x="284.33333333333337" y="317.0" />
+              <point x="302.01515151515156" y="317.0" />
+              <point x="-115.5" y="71.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.PancakeSausage" target="Java.com.han.designmode.structure.decorate.APancake">
+              <point x="-93.66666666666669" y="-58.0" />
+              <point x="190.66666666666669" y="317.0" />
+              <point x="231.66233766233768" y="317.0" />
+              <point x="231.66233766233768" y="119.0" />
+              <point x="372.1190476190476" y="119.0" />
+              <point x="-59.71428571428572" y="44.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.decorate.Pancake" target="Java.com.han.designmode.structure.decorate.APancake">
+              <point x="0.0" y="-71.0" />
+              <point x="104.5" y="109.0" />
+              <point x="342.26190476190476" y="109.0" />
+              <point x="-89.57142857142856" y="44.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-56.5" y="134.0" />
+          <SelectedNodes>
+            <node>Java.com.han.designmode.structure.decorate.APancakeStructure</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/APancakeStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/Pancake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/decorate/APancake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/PointsGift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/ShippingServie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/PointPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/QualifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/GiftExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Java.com.han.designmode.structure.facade">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java.com.han.designmode.structure.facade</OriginalElement>
+          <nodes>
+            <node x="" y="">Java.com.han.designmode.structure.facade.QualifyService</node>
+            <node x="" y="">Java.com.han.designmode.structure.facade.PointPaymentService</node>
+            <node x="" y="">Java.com.han.designmode.structure.facade.Test</node>
+            <node x="" y="">Java.com.han.designmode.structure.facade.ShippingServie</node>
+            <node x="" y="">Java.com.han.designmode.structure.facade.GiftExchangeService</node>
+            <node x="" y="">Java.com.han.designmode.structure.facade.PointsGift</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="532.5" y="282.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/facade/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/USElectronicFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/GuoMeiFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/MeiDiFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/ifactory/IGuoMeiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/ifactory/IHaiErFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/ifactory/IMeiDiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IRefrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/IWashingMachine.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/geli/GeLiAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/GeLiFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/geli/GeLiRefrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/geli/GeLiWashingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/guomei/GuoMeiAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/haier/HaiErAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/haier/HaiErRefrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/haier/HaiErWashingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/guomei/GuoMeiRefrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/guomei/GuoMeiWashingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiAirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiRefrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/meidi/MeiDiWashingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/MyIDEAProgect/DesignMode/src/Java/com/han/designmode/structure/abstractfactory/electronic">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Java.com.han.designmode.structure.abstractfactory.electronic">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java.com.han.designmode.structure.abstractfactory.electronic</OriginalElement>
+          <nodes>
+            <node x="0.0" y="490.0">Java.com.han.designmode.structure.abstractfactory.electronic.iproduct</node>
+            <node x="261.75" y="382.0">Java.com.han.designmode.structure.abstractfactory.electronic.Test</node>
+            <node x="61.333333333333314" y="52.0">Java.com.han.designmode.structure.abstractfactory.electronic.product</node>
+            <node x="308.0" y="191.0">Java.com.han.designmode.structure.abstractfactory.electronic.ChinaElectronicFactory</node>
+            <node x="0.0" y="191.0">Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory</node>
+            <node x="380.0" y="0.0">Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.product">
+              <point x="-72.0" y="-70.5" />
+              <point x="72.0" y="171.0" />
+              <point x="101.08333333333331" y="171.0" />
+              <point x="-39.75" y="18.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.ChinaElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.product">
+              <point x="-72.0" y="-70.5" />
+              <point x="380.0" y="161.0" />
+              <point x="180.58333333333331" y="161.0" />
+              <point x="39.75" y="18.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.Test" target="Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory">
+              <point x="-56.75" y="-31.5" />
+              <point x="318.5" y="357.0" />
+              <point x="144.0" y="357.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.ChinaElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory">
+              <point x="72.0" y="-70.5" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.USElectronicFactory" target="Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory">
+              <point x="72.0" y="-70.5" />
+              <point x="216.0" y="171.0" />
+              <point x="428.0" y="171.0" />
+              <point x="-96.0" y="70.5" />
+            </edge>
+            <edge source="Java.com.han.designmode.structure.abstractfactory.electronic.Test" target="Java.com.han.designmode.structure.abstractfactory.electronic.IElectronicFactory">
+              <point x="56.75" y="-31.5" />
+              <point x="432.0" y="357.0" />
+              <point x="606.8958333333334" y="357.0" />
+              <point x="606.8958333333334" y="171.0" />
+              <point x="620.0" y="171.0" />
+              <point x="96.0" y="70.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-181.5" y="226.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/ChinaElectronicFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/IElectronicFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/iproduct/ifactory/IGeLiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/han/designmode/structure/abstractfactory/electronic/product/HaierFactoryImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="23" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
